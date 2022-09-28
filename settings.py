@@ -1,5 +1,5 @@
-valid_email = 'letchik.4511@mail.ru'
-valid_password = 'chuk4agady4511l331539s'
+valid_email = 'email.ru'
+valid_password = 'parol'
 
 invalid_email = 'tangogolfzulu@gmail.com'
 invalid_password = 'dfdfhzssfhghxzdcg'
